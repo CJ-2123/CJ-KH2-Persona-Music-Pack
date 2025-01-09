@@ -26,7 +26,7 @@
 |               | Beneath the Ground (Version 1)                    | OC Underworld Cups                       | Layer Cake (P5)                                 |
 |               | Beneath the Ground (Version 2)                    | ???                                      | Layer Cake (P5)                                 |
 |               | Olympus Coliseum                                  | OC                                       | Iwatodai Dorm (P3)                              |
-|               | Road to a Hero                                    | OC Minigame                              | Specialist (P4)                                 |
+|               | Road to a Hero                                    | OC Minigame                              | Period (P4)                                     |
 |               | Mickey Mouse Club March                           | DC                                       | Dark Net (P5)                                   |
 |               | Monochrome Dreams                                 | TR                                       | Improvised Song to the Next Prime Minister (P5) |
 |               | Old Friends, Old Rivals                           | TR Battle                                | Tanaka's Amazing Commodities (P3)               |
@@ -86,8 +86,8 @@
 |               | Darkness of the Unknown (Part 1)                  | Final Fights Dragon X                    | Sweatshop (P5)                                  |
 |               | Darkness of the Unknown (Part 2)                  | Final Fights AX2                         | The Fog (P4)                                    |
 |               | Darkness of the Unknown (Part 3)                  | Final Fights Final X                     | Burn My Dread: Last Battle (P3)                 |
-|               | One-Winged Angel                                  | Sephiroth Boss                           | Rivers in the Desert (P5)                       |
-|               | Rage Awakened                                     | Lingering Will Boss                      | Yaldabaoth (P5)                                 |
+|               | One-Winged Angel                                  | Sephiroth Boss                           | Yaldabaoth (P5)                                 |
+|               | Rage Awakened                                     | Lingering Will Boss                      | Rivers in the Desert (P5)                       |
 | Events        | The Escapade                                      | Minigame                                 | Junes (P4)                                      |
 |               | Beauty and the Beast                              | BC Scene                                 | Sweet (P5)                                      |
 |               | Friends in My Heart                               | Scene                                    | Swear to My Bones (P5)                          |
@@ -99,10 +99,10 @@
 |               | Laughter and Merriment                            | Scene                                    | Like a Dream Come True (P4)                     |
 |               | Hesitation                                        | Scene                                    | Troubled (P3)                                   |
 |               | Missing You                                       | Scene                                    | Traumerei (P4)                                  |
-|               | Sora                                              | Scene                                    | Period (P4)                                     |
+|               | Sora                                              | Scene                                    | Specialist (P4)                                 |
 |               | Riku                                              | Scene                                    | Regret (P5)                                     |
 |               | Kairi                                             | Scene                                    | A Way of Life (P3)                              |
-|               | Roxas                                             | Scene                                    | Between Doors (P3)                              |
+|               | Roxas                                             | Scene                                    | I'll Face Myself (P4)                           |
 | Gummi         | A Twinkle in the Sky                              | World map                                | Planetarium (P5)                                |
 |               | Shipmeisters' Shanty                              | Gummi editor                             | Electronics Store (P5)                          |
 |               | Gearing Up                                        | Gummi selection                          | Triple Seven (P5)                               |
